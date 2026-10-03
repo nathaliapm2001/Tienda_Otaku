@@ -8,8 +8,8 @@ El programa permite gestionar un catálogo de obras, controlar el stock, almacen
 
 ## 👥 Miembros del grupo
 
-**Nathalia Piñera Molina**
-**Ivan Mena Damian**
+- **Nathalia Piñera Molina**  
+- **Ivan Mena Damian**
 
 ---
 
